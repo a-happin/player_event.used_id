@@ -1,0 +1,7 @@
+{
+  "values": [
+    "player_event.used_id:calc_used_id/1",
+    "player_event.used_id:calc_sum_id",
+    "player_event.used_id:calc_used_id/2"
+  ]
+}

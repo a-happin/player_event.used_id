@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "mainhand": {
+      "trigger": "impossible"
+    },
+    "offhand": {
+      "trigger": "impossible"
+    },
+    "unknown": {
+      "trigger": "impossible"
+    }
+  },
+  "requirements": [
+    ["mainhand", "offhand", "unknown"]
+  ]
+}
