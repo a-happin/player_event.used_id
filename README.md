@@ -13,8 +13,6 @@ player_event.used_id
 - carrot_on_a_stick
 - crossbow
 - knowledge_book
-- trident (not work in creative mode)
-  - Holding a riptide trident in mainhand and a non-riptide trident in offhand will cause the bug.
 - warped_fungus_on_a_stick
 
 ## Usage
