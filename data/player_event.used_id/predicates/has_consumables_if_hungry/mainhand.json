@@ -1,0 +1,11 @@
+{
+  "condition": "entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "tag": "player_event:consumables_if_hungry"
+      }
+    }
+  }
+}
