@@ -18,7 +18,7 @@ player_event.used_id
 ### Scores
 
 |Score|description|
-|:--|:--|:--|
+|:--|:--|
 |`score @s player_event.used_id`|the value of `id`(NBT) of the used item|
 
 #### avaiable in
