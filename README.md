@@ -30,15 +30,6 @@ player_event.used_id
 - `#player:used.knowledge_book`<br>
 - `#player:used.warped_fungus_on_a_stick`<br>
 
-### Advancements criteria
-
-readonly
-
-|available in|Advancement|criteria|
-|:--|:--|:--|
-|`#player:stared_using_item`|`player_event.used_id:using_bow`<br>`player_event.used_id:using_consumables`|mainhand|
-|^|^|offhand|
-
 ## Usage
 
 - Please load before the datapack where your event handler is defined.
