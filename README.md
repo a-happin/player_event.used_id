@@ -3,9 +3,8 @@ player_event.used_id
 
 ## Features
 
-- This is an extension library for [player_event](https://github.com/a-happin/player_event).
+- This is an extension for [player_event](https://github.com/a-happin/player_event).
 - When a player uses an item, `score @s player_event.used_id` will be the value of `tag.id` of the used item.
-- not so much NBT serialization
 
 ### Available
 - bow
