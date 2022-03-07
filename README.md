@@ -11,6 +11,7 @@ player_event.used_id
 - carrot_on_a_stick
 - crossbow
 - knowledge_book
+- shield
 - warped_fungus_on_a_stick
 - consumables (i.e., Items detectable by `advancement consume_item`)
 
@@ -27,6 +28,7 @@ player_event.used_id
 - `#player:used.bow`<br>
 - `#player:used.carrot_on_a_stick`<br>
 - `#player:used.knowledge_book`<br>
+- `#player:used.shield`<br>
 - `#player:used.warped_fungus_on_a_stick`<br>
 
 ## Usage
