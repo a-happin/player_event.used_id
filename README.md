@@ -19,7 +19,7 @@ player_event.used_id
 
 |Score|description|
 |:--|:--|
-|`score @s player_event.used_id`|the value of `id`(NBT) of the used item|
+|`score @s player_event.used_id`|the value of `tag.id` of the used item|
 
 #### avaiable in
 
