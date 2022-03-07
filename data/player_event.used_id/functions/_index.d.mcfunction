@@ -3,5 +3,4 @@
 
 #>
 #@public
-  #declare advancement player_event.used_id:using_bow
-  #declare advancement player_event.used_id:using_consumables
+  #declare advancement player_event.used_id:using_item

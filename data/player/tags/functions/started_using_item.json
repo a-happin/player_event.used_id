@@ -1,5 +1,5 @@
 {
   "values": [
-    "player_event.used_id:handler/started_using_item"
+    "player_event.used_id:handler/started_using_item/"
   ]
 }
