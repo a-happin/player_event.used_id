@@ -21,7 +21,7 @@ player_event.used_id
 |:--|:--|
 |`score @s player_event.used_id`|the value of `tag.id` of the used item|
 
-#### avaiable in
+#### available in
 
 - `#player:consume_item`<br>
 - `#player:shot_crossbow`<br>
