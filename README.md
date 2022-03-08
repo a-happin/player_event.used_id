@@ -24,11 +24,11 @@ player_event.used_id
 #### available in
 
 - `#player:consume_item`<br>
+- `#player:entity_hurt_player`(`advancement player_event:handler/entity_hurt_player={blocked=true}`)<br>
 - `#player:shot_crossbow`<br>
 - `#player:used.bow`<br>
 - `#player:used.carrot_on_a_stick`<br>
 - `#player:used.knowledge_book`<br>
-- `#player:used.shield`<br>
 - `#player:used.warped_fungus_on_a_stick`<br>
 
 ## Usage
